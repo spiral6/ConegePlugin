@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/org/bukkit/bukkit/0.0.1-412/bukkit-0.0.1-412.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Sami/My Documents/Java/craftbukkit-1.4.6-R0.2-20121228.030808-16.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
